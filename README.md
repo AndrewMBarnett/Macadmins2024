@@ -8,3 +8,5 @@ Information on our Macadmins 2024 Presentation: Managing Apple Devices Through A
 Here is a link to tools, scripts we use and presentated about in our presentation:
 
 Link to tools and scripts: [Macadmins 2024](https://github.com/odra94/MacAdminStuff/tree/main)
+
+*We will add the recording link and slides once they uploaded to the Macadmins website and Youtube*
