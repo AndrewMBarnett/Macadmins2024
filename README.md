@@ -9,4 +9,4 @@ Here is a link to tools, scripts we use and presentated about in our presentatio
 
 Link to tools and scripts: [Macadmins 2024](https://github.com/odra94/MacAdminStuff/tree/main)
 
-*We will add the recording link and slides once they uploaded to the Macadmins website and Youtube*
+*We will add the recording link and slides once they are uploaded to the Macadmins website and Youtube*
