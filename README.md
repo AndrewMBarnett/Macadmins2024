@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Macadmins2024/Images/macadminsbanner.png" width="900;"/>
+  <img src="/Images/macadminsbanner.png" width="900;"/>
 </p>
 
 # Macadmins2024
